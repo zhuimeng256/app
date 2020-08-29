@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/app.iml" filepath="$PROJECT_DIR$/.idea/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web/.idea/web.iml" filepath="$PROJECT_DIR$/../web/.idea/web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../笔记/阶段6 移动自动化测试/app自动化/25-百年奥莱/04-代码/奥莱商城/.idea/奥莱商城.iml" filepath="$PROJECT_DIR$/../笔记/阶段6 移动自动化测试/app自动化/25-百年奥莱/04-代码/奥莱商城/.idea/奥莱商城.iml" />
+    </modules>
+  </component>
+</project>
